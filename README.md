@@ -66,10 +66,6 @@ Here are some of the technologies and tools I work with:
 **Tech Stack:** React.js, Supabase, Shadcn/UI  
 A full-featured URL shortener with a sleek UI and database-driven functionality.  
 
-### **2. Personal Portfolio Website** *(Work in Progress)*  
-**Tech Stack:** React.js, Framer Motion, Figma for design  
-A creative portfolio to showcase my projects, skills, and journey.
-
 ---
 
 ## 🎯 Goals  
