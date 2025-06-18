@@ -8,4 +8,4 @@ Welcome to my digital corner on GitHub! I’m a passionate and enthusiastic deve
 - **🎨 Creative Explorer:** Blending web development with UI/UX design to create stunning digital experiences.  
 - **📚 Lifelong Learner:** Constantly expanding my knowledge base, whether it’s mastering algorithms, diving into databases, or perfecting animations.
 
-## Twitter Handle - https://x.com/dhruv_sol/
+Twitter Handle - https://x.com/dhruv_sol/
